@@ -358,10 +358,7 @@ The identified weakness represents a High-Severity confidentiality risk and shou
 
 ---
 
-**Pentester:** Anderson Edaiyo Uzezi 
-**Client:** Mediroza General Hospital  
-**Engagement:** Black-Box Penetration Test  
-**Milestone:** M2 – Data Extraction & Password Recovery
+
 
 
 **Next Phase** Milestone 3: Critical Data Exposure Assessment
