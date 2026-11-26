@@ -362,3 +362,11 @@ The identified weakness represents a High-Severity confidentiality risk and shou
 
 
 **Next Phase** Milestone 3: Critical Data Exposure Assessment
+
+
+
+##  👤 Author
+
+**Anderson Edaiyo Uzezi**  
+Cybersecurity Professional B084  
+LinkedIn: https://www.linkedin.com/in/anderson-edaiyo-bab74117b
