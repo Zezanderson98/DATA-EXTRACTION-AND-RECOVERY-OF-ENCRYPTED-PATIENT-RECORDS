@@ -190,6 +190,10 @@ Following successful authentication, full access to the patient report contents 
 ### Evidence 1 – Hash Extraction
 
 SS03-HASH-CALCULATOR-EXTRACTED-PDF-1-HASH
+
+
+
+
 Networkwalks Hash Calculator displaying the extracted PDF hash.
 
 
@@ -213,6 +217,10 @@ Networkwalks Hash Calculator displaying the extracted PDF hash.
 ### Evidence 2 – Password Recovery
 
 SS04-PASSWORD-CRACKER-RECOVERS-PDF-1-PASSWORD
+
+
+
+
 Networkwalks Password Cracker successfully recovers the document password.
 
 
@@ -229,6 +237,12 @@ Networkwalks Password Cracker successfully recovers the document password.
 ### Evidence 3 – Successful Access
 
 SS05-ACCESSING-PDF-1-PATIENT_REPORT
+
+
+
+
+
+
 Patient Report 1 opened after entering the recovered password.
 
 
@@ -243,6 +257,12 @@ Patient Report 1 opened after entering the recovered password.
 ### Evidence 4 – Report Contents
 
 SS06-PDF-1-PATIENT_REPORT-ACCESSED
+
+
+
+
+
+
 Recovered patient laboratory report contents.
 
 
@@ -259,6 +279,12 @@ Recovered patient laboratory report contents.
 ### Evidence 5 – Hash Extraction
 
 SS03-HASH-CALCULATOR-EXTRACTED-PDF-2-HASH
+
+
+
+
+
+
 Networkwalks Hash Calculator displaying the extracted the PDF 2 hash.
 
 
@@ -275,6 +301,10 @@ Networkwalks Hash Calculator displaying the extracted the PDF 2 hash.
 ### Evidence 6 – Password Recovery
 
 SS04-PASSWORD-CRACKER-RECOVERS-PDF-2-PASSWORD
+
+
+
+
 Networkwalks Password Cracker displaying successful password recovery.
 
 
@@ -291,6 +321,11 @@ Networkwalks Password Cracker displaying successful password recovery.
 ### Evidence 7 – Successful Access
 
 SS05-ACCESSING-PDF-2-PATIENT_REPORT
+
+
+
+
+
 Patient Report 2 opened using the recovered password.
 
 
@@ -304,6 +339,10 @@ Patient Report 2 opened using the recovered password.
 ### Evidence 8 – Report Contents
 
 SS06-PDF-2-PATIENT_REPORT-ACCESSED
+
+
+
+
 Recovered patient laboratory report contents.
 
 
@@ -324,6 +363,13 @@ Recovered patient laboratory report contents.
 ### Evidence 9 – PDFCrack Execution
 
 SS01_PDFCRACK_ROCKYYOU_PATIENT_REPORT_3
+
+
+
+
+
+
+
 PDFCrack terminal output showing successful password recovery using the RockYou wordlist.
 
 
@@ -340,6 +386,14 @@ PDFCrack terminal output showing successful password recovery using the RockYou 
 ### Evidence 10 – Successful Access
 
 SS02-ACCESSING-PDF-3-PATIENT_REPORT
+
+
+
+
+
+
+
+
 Patient Report 3 opened after decryption.
 
 
@@ -354,6 +408,13 @@ Patient Report 3 opened after decryption.
 ### Evidence 11 – Report Contents
 
 SS03-PDF-3-PATIENT_REPORT-ACCESSED
+
+
+
+
+
+
+
 Recovered patient laboratory report contents.
 
 
