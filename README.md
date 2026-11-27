@@ -181,7 +181,7 @@ Following successful authentication, full access to the patient report contents 
 
 # Evidence
 
-The following evidence should be included within the report.
+
 
 ---
 
@@ -189,23 +189,68 @@ The following evidence should be included within the report.
 
 ### Evidence 1 – Hash Extraction
 
-**Insert Screenshot:**
+SS03-HASH-CALCULATOR-EXTRACTED-PDF-1-HASH
 Networkwalks Hash Calculator displaying the extracted PDF hash.
+
+
+
+
+
+
+
+
+
+
+
+<img width="1366" height="768" alt="SS03-COPY-HASH-PATIENT-PDF-1" src="https://github.com/user-attachments/assets/613d0e7d-37fd-405c-aa95-b34db11ff2d2" />
+
+
+
+
+
+
 
 ### Evidence 2 – Password Recovery
 
-**Insert Screenshot:**
-Networkwalks Password Cracker successfully recovering the document password.
+SS04-PASSWORD-CRACKER-RECOVERS-PDF-1-PASSWORD
+Networkwalks Password Cracker successfully recovers the document password.
+
+
+<img width="1366" height="768" alt="SS07-PDF-PASSWORD-FOR-PATIENT-1-CRACKED-SUCESSFULLY" src="https://github.com/user-attachments/assets/47158de7-6183-4429-b654-ec28e339bab4" />
+
+
+
+
+
+
+
+
 
 ### Evidence 3 – Successful Access
 
-**Insert Screenshot:**
+SS05-ACCESSING-PDF-1-PATIENT_REPORT
 Patient Report 1 opened after entering the recovered password.
+
+
+
+
+<img width="1366" height="768" alt="SS08-ACCESSING-PDF-1-PATIENT_REPORT" src="https://github.com/user-attachments/assets/8e1b3b82-4acb-4337-ad81-fbe6284883ee" />
+
+
+
+
 
 ### Evidence 4 – Report Contents
 
-**Insert Screenshot:**
+SS06-PDF-1-PATIENT_REPORT-ACCESSED
 Recovered patient laboratory report contents.
+
+
+<img width="1366" height="768" alt="SS09-PDF-1-PATIENT _REPORT- ACCESSED SUCESSFULY" src="https://github.com/user-attachments/assets/887f915a-8cb3-4a2e-b46f-8cd855c9e865" />
+
+
+
+
 
 ---
 
@@ -213,23 +258,64 @@ Recovered patient laboratory report contents.
 
 ### Evidence 5 – Hash Extraction
 
-**Insert Screenshot:**
-Networkwalks Hash Calculator extracting the PDF hash.
+SS03-HASH-CALCULATOR-EXTRACTED-PDF-2-HASH
+Networkwalks Hash Calculator displaying the extracted the PDF 2 hash.
+
+
+
+<img width="1366" height="768" alt="SS03-COPY-HASH-PATIENT-PDF-2" src="https://github.com/user-attachments/assets/d83491c0-287e-4877-af03-de556abcd575" />
+
+
+
+
+
+
+
 
 ### Evidence 6 – Password Recovery
 
-**Insert Screenshot:**
+SS04-PASSWORD-CRACKER-RECOVERS-PDF-2-PASSWORD
 Networkwalks Password Cracker displaying successful password recovery.
+
+
+
+<img width="1366" height="768" alt="SS07-PDF-PASSWORD-FOR-PATIENT-2-CRACKED-SUCESSFULY" src="https://github.com/user-attachments/assets/19d16626-e198-4ba0-b122-680d2dfe40e1" />
+
+
+
+
+
+
+
 
 ### Evidence 7 – Successful Access
 
-**Insert Screenshot:**
+SS05-ACCESSING-PDF-2-PATIENT_REPORT
 Patient Report 2 opened using the recovered password.
+
+
+
+<img width="1366" height="768" alt="SS08-ACCESSING-PDF-2-PATIENT_REPORT" src="https://github.com/user-attachments/assets/e0ccbf63-1222-4796-825f-956ef852d0c5" />
+
+
+
+
 
 ### Evidence 8 – Report Contents
 
-**Insert Screenshot:**
+SS06-PDF-2-PATIENT_REPORT-ACCESSED
 Recovered patient laboratory report contents.
+
+
+
+<img width="1366" height="768" alt="SS09-PDF-2-PATIENT_REPORT-ACCESSED-SUCESSFULY" src="https://github.com/user-attachments/assets/17de8b33-610f-4827-92bd-907e8f355aca" />
+
+
+
+
+
+
+
 
 ---
 
@@ -237,23 +323,45 @@ Recovered patient laboratory report contents.
 
 ### Evidence 9 – PDFCrack Execution
 
-**Insert Screenshot:**
+SS01_PDFCRACK_ROCKYYOU_PATIENT_REPORT_3
 PDFCrack terminal output showing successful password recovery using the RockYou wordlist.
 
-### Evidence 10 – Password Validation
 
-**Insert Screenshot:**
-Password used to successfully unlock the document.
 
-### Evidence 11 – Successful Access
 
-**Insert Screenshot:**
+
+
+
+<img width="1360" height="662" alt="SS01_PDFCRACK_ROCKYYOU_PATIENT_REPORT_3" src="https://github.com/user-attachments/assets/c949e212-2a8c-4398-ade6-e1cf0d2db77a" />
+
+
+
+
+### Evidence 10 – Successful Access
+
+SS02-ACCESSING-PDF-3-PATIENT_REPORT
 Patient Report 3 opened after decryption.
 
-### Evidence 12 – Report Contents
 
-**Insert Screenshot:**
+
+
+
+
+<img width="1366" height="768" alt="SS02-ACCESSING-PDF-3-PATIENT_REPORT" src="https://github.com/user-attachments/assets/b7bfe1bb-cff1-4c6c-932c-537fd143591e" />
+
+
+
+### Evidence 11 – Report Contents
+
+SS03-PDF-3-PATIENT_REPORT-ACCESSED
 Recovered patient laboratory report contents.
+
+
+
+
+
+<img width="1366" height="768" alt="SS03-PDF-3-PATIENT_REPORT-ACCESSED" src="https://github.com/user-attachments/assets/1acf182f-5ccb-4ca4-8d08-80da2ac10957" />
+
 
 ---
 
